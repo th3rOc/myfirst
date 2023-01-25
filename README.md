@@ -10,7 +10,7 @@ Install git bash,Rstudio
 
 #DAY TWO
 
-**Introduction to command line*
+**Introduction to command line**
 
  #DAY THREE
 
