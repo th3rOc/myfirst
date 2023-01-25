@@ -1,4 +1,4 @@
-myfirst day
+#myfirst day
 
 My first repository to store and writer
 I will write on all i have learnt 
@@ -8,7 +8,7 @@ DAY ONE
 
 Install git bash,Rstudio
 
-DAY TWO
+#DAY TWO
 
 **Introduction to command line**
 
@@ -18,6 +18,6 @@ DAY TWO
 -How can i move around my computer
 -How can i see what files and directorioes contain
 -How to specify
-DAY THREE
+ #DAY THREE
 
 **Introduction to github**
