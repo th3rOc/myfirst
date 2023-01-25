@@ -24,6 +24,8 @@ R studio
 -How can i see what files and directories i have
 
 -How can i speciefy the locationof a file or directoryon a computer
+Reading materials
+-(carpentries resources)(https//swcarpentery.githup.io/shell-novice)
 
 
  #DAY THREE
