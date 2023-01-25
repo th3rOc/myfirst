@@ -1,16 +1,25 @@
-#myfirst day
-
+#Bioinformatics Workshop
+The first Bioinformatics workshop for Biomedical student
 My first repository to store and writer
-I will write on all i have learnt 
+
+Held from 23 January-27 january 2023
+
 DAY ONE
+**Installation of software**
 
-**Intallation of tools**
-
-Install git bash,Rstudio
+Install 
+1.Git bash
+R studio
 
 #DAY TWO
+**Introduction to commandline**
 
-**Introduction to command line**
+1.Introducting the shell
+2.Navigating files and directories
+-What is command shell and why should i use it
+-How can i see what files and directories i have
+-How can i speciefy the locationof a file or directoryon a computer
+
 
  #DAY THREE
 
