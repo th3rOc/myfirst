@@ -21,7 +21,7 @@ R studio
 
 -What is command shell and why should i use it
 
--How can i see what files and directories i have
+-How can i see what files and directories i have it
 
 -How can i speciefy the locationof a file or directoryon a computer
 Reading materials
