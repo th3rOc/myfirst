@@ -4,6 +4,7 @@ The first Bioinformatics workshop for Biomedical stude
 Held from 23 January-27 january 2023
 
 DAY ONE
+
 **Installation of software**
 
 Install 
