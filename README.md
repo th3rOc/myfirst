@@ -1,6 +1,5 @@
 #Bioinformatics Workshop
-The first Bioinformatics workshop for Biomedical student
-My first repository to store and writer
+The first Bioinformatics workshop for Biomedical stude
 
 Held from 23 January-27 january 2023
 
